@@ -1,0 +1,14 @@
+
+# 888                           d8     e88'Y88                  d8                 
+# 888      e88 88e   e88 88e   d88    d888  'Y 888,8,  ,"Y88b  d88    ,e e,   dP"Y 
+# 888     d888 888b d888 888b d88888 C8888     888 "  "8" 888 d88888 d88 88b C88b  
+# 888  ,d Y888 888P Y888 888P  888    Y888  ,d 888    ,ee 888  888   888   ,  Y88D 
+# 888,d88  "88 88"   "88 88"   888     "88,d88 888    "88 888  888    "YeeP" d,dP  
+                                                                                 
+
+name: LootCrates
+api: 2.0.0
+version: "1.0.0"
+author: EvolvedNetwork
+authors: [KairusDarkSeeker]
+main: KairusDarkSeeker\LootCrates\LootCrates
